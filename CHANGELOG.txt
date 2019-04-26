@@ -1,0 +1,8 @@
+    
+CHANGELOG
+=========
+
+Version 1.0
+-----------
+
+-Added commandline interface for newsapi top headlines api to export top 100 news items to csv
